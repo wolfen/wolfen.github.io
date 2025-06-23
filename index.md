@@ -2,25 +2,9 @@
 
 This repository is for serving static content.
 
-## Diagram Test
+## [Diagram Examples](docs/diagram_examples.md)
 
-```mermaid
-gitGraph:
-    commit "Ashish"
-    branch newbranch
-    checkout newbranch
-    commit id:"1111"
-    commit tag:"test"
-    checkout main
-    commit type: HIGHLIGHT
-    commit
-    merge newbranch
-    commit
-    branch b2
-    commit
-```
-
-## [Link Test](/Notes)
+## [Notes](/Notes)
 
 ## References
 
