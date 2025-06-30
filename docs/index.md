@@ -1,7 +1,4 @@
-## [Diagram Examples](diagram_examples.md)
-
-## [Notes](Notes)
-
-## References
-
-- [Github Pages](https://pages.github.com/)
+- [Diagram Examples](diagram_examples.md)
+- [Notes](Notes)
+- References
+  - [Github Pages](https://pages.github.com/)

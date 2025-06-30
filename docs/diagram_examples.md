@@ -84,4 +84,4 @@ architecture-beta
 
 ## References
 
-- https://mermaid.js.org/syntax/examples.html
+- [Mermaid](https://mermaid.js.org/syntax/examples.html)
