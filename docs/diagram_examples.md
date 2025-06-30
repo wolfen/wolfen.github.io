@@ -1,4 +1,9 @@
-# Diagram Examples
+---
+title: "Diagram Examples"
+layout: MyLayout
+---
+
+{% include mermaid.html %}
 
 ## Sequence Diagram
 
