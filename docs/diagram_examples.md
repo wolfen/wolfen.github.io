@@ -1,11 +1,4 @@
----
-title: "Diagram Examples"
-layout: MyLayout
----
-
-{% include mermaid.html %}
-
-## Sequence Diagram
+- Sequence Diagram
 
 ```mermaid
 sequenceDiagram
@@ -20,7 +13,7 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-## ER Diagram
+- ER Diagram
 
 ```mermaid
 ---
@@ -32,7 +25,7 @@ erDiagram
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
 
-## State Diagram
+- State Diagram
 
 ```mermaid
 stateDiagram
@@ -53,7 +46,7 @@ stateDiagram
    Crash:::badBadEvent --> [*]
 ```
 
-## git graph
+- git graph
 
 ```mermaid
 gitGraph:
@@ -71,7 +64,7 @@ gitGraph:
     commit
 ```
 
-## Architecture
+- Architecture
 
 ```mermaid
 architecture-beta
@@ -87,6 +80,5 @@ architecture-beta
     disk2:T -- B:db
 ```
 
-## References
-
-- [Mermaid](https://mermaid.js.org/syntax/examples.html)
+- References
+  - [Mermaid](https://mermaid.js.org/syntax/examples.html)
