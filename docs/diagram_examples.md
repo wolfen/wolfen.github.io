@@ -1,3 +1,5 @@
+{% include head-custom.html %}
+
 - Sequence Diagram
 
 ```mermaid
