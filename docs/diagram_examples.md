@@ -1,3 +1,5 @@
+{% include mermaid.html %}
+
 - Sequence Diagram
 
 ```mermaid
